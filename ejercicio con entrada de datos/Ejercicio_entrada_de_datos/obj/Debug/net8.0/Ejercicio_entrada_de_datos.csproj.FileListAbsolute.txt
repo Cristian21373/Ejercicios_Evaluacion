@@ -1,0 +1,14 @@
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\bin\Debug\net8.0\Ejercicio_entrada_de_datos.exe
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\bin\Debug\net8.0\Ejercicio_entrada_de_datos.deps.json
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\bin\Debug\net8.0\Ejercicio_entrada_de_datos.runtimeconfig.json
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\bin\Debug\net8.0\Ejercicio_entrada_de_datos.dll
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\bin\Debug\net8.0\Ejercicio_entrada_de_datos.pdb
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.AssemblyInfo.cs
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.dll
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\refint\Ejercicio_entrada_de_datos.dll
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.pdb
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\Ejercicio_entrada_de_datos.genruntimeconfig.cache
+C:\Users\SENA\Documents\examen\ejercicio con entrada de datos\Ejercicio_entrada_de_datos\obj\Debug\net8.0\ref\Ejercicio_entrada_de_datos.dll

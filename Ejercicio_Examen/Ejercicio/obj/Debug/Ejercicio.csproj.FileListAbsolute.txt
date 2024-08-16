@@ -1,0 +1,7 @@
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\SENA\Documents\Ejercicio_Examen\Ejercicio\obj\Debug\Ejercicio.pdb
