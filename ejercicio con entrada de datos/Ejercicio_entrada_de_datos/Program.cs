@@ -36,6 +36,9 @@ namespace Ejercicio_con_entrada_de_datos
                 DiasTrabajados = Convert.ToInt32(Console.ReadLine());
             }
 
+
+            
+
             // Metodo para calcular el salario
             public double CalcularSalario()
             {
@@ -55,7 +58,7 @@ namespace Ejercicio_con_entrada_de_datos
                 Console.WriteLine($"Teléfono: {Telefono}");
                 Console.WriteLine($"Salario: {Salario}");
                 Console.WriteLine($"Días trabajados: {DiasTrabajados}");
-                Console.WriteLine($"Total salario calculado: {CalcularSalario()}");
+                Console.WriteLine($"Total salario calculado: {CalcularSalario():F2}");
             }
 
             public async Task LeerDatosAsync()

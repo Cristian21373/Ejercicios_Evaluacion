@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Ejercicio_entrada_de_datos.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Ejercicio_entrada_de_datos.csproj",
       "projectName": "Ejercicio_entrada_de_datos",
-      "projectPath": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Ejercicio_entrada_de_datos.csproj",
+      "projectPath": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Ejercicio_entrada_de_datos.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\obj\\",
+      "outputPath": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

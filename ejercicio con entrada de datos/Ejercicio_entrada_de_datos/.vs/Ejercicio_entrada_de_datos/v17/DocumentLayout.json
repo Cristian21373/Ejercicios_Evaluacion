@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\",
+  "WorkspaceRootPath": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB0B897E-B0A1-4924-87DF-1E9683AFE6DE}|Ejercicio_entrada_de_datos.csproj|c:\\users\\sena\\documents\\examen\\ejercicio con entrada de datos\\ejercicio_entrada_de_datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB0B897E-B0A1-4924-87DF-1E9683AFE6DE}|Ejercicio_entrada_de_datos.csproj|c:\\users\\sena\\desktop\\ejercicios_evaluacion\\ejercicio con entrada de datos\\ejercicio_entrada_de_datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB0B897E-B0A1-4924-87DF-1E9683AFE6DE}|Ejercicio_entrada_de_datos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SENA\\Documents\\examen\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Program.cs",
+              "ToolTip": "C:\\Users\\SENA\\Desktop\\Ejercicios_Evaluacion\\ejercicio con entrada de datos\\Ejercicio_entrada_de_datos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAwDIAAAA6AAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwDwAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T21:28:18.818Z",
               "EditorCaption": ""
